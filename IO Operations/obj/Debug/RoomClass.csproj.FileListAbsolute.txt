@@ -1,0 +1,39 @@
+C:\Users\Administrator\Desktop\C#\RoomClass\bin\Debug\RoomClass.exe.config
+C:\Users\Administrator\Desktop\C#\RoomClass\bin\Debug\RoomClass.exe
+C:\Users\Administrator\Desktop\C#\RoomClass\bin\Debug\RoomClass.pdb
+C:\Users\Administrator\Desktop\C#\RoomClass\obj\Debug\RoomClass.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\RoomClass\obj\Debug\RoomClass.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\RoomClass\obj\Debug\RoomClass.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C#\RoomClass\obj\Debug\RoomClass.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#\RoomClass\obj\Debug\RoomClass.exe
+C:\Users\Administrator\Desktop\C#\RoomClass\obj\Debug\RoomClass.pdb
+C:\Users\Administrator\Desktop\C#\RoomClass\bin\Debug\EPPlus.dll
+C:\Users\Administrator\Desktop\C#\RoomClass\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Administrator\Desktop\C#\RoomClass\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Administrator\Desktop\C#\RoomClass\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Administrator\Desktop\C#\RoomClass\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Administrator\Desktop\C#\RoomClass\bin\Debug\EPPlus.xml
+C:\Users\Administrator\Desktop\C#\RoomClass\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Administrator\Desktop\C#\RoomClass\obj\Debug\RoomClass.csproj.CopyComplete
+C:\Users\Administrator\Desktop\C#\RoomClass\obj\Debug\RoomClass.Export_Data.resources
+C:\Users\Administrator\Desktop\C#\RoomClass\obj\Debug\RoomClass.Export_Settings.resources
+C:\Users\Administrator\Desktop\C#\RoomClass - Copy\bin\Debug\RoomClass.exe.config
+C:\Users\Administrator\Desktop\C#\RoomClass - Copy\bin\Debug\RoomClass.exe
+C:\Users\Administrator\Desktop\C#\RoomClass - Copy\bin\Debug\RoomClass.pdb
+C:\Users\Administrator\Desktop\C#\RoomClass - Copy\bin\Debug\EPPlus.dll
+C:\Users\Administrator\Desktop\C#\RoomClass - Copy\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Administrator\Desktop\C#\RoomClass - Copy\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Administrator\Desktop\C#\RoomClass - Copy\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Administrator\Desktop\C#\RoomClass - Copy\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Administrator\Desktop\C#\RoomClass - Copy\bin\Debug\EPPlus.xml
+C:\Users\Administrator\Desktop\C#\RoomClass - Copy\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Administrator\Desktop\C#\RoomClass - Copy\obj\Debug\RoomClass.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\RoomClass - Copy\obj\Debug\RoomClass.Export_Data.resources
+C:\Users\Administrator\Desktop\C#\RoomClass - Copy\obj\Debug\RoomClass.Settings.resources
+C:\Users\Administrator\Desktop\C#\RoomClass - Copy\obj\Debug\RoomClass.Import_Settings.resources
+C:\Users\Administrator\Desktop\C#\RoomClass - Copy\obj\Debug\RoomClass.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\RoomClass - Copy\obj\Debug\RoomClass.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C#\RoomClass - Copy\obj\Debug\RoomClass.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#\RoomClass - Copy\obj\Debug\RoomClass.csproj.CopyComplete
+C:\Users\Administrator\Desktop\C#\RoomClass - Copy\obj\Debug\RoomClass.exe
+C:\Users\Administrator\Desktop\C#\RoomClass - Copy\obj\Debug\RoomClass.pdb
